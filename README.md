@@ -1,2 +1,3 @@
 # Lesson1
 Lesson for Qwiklabs test
+I am editing the README file. Adding some more details about the project description.
